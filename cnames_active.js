@@ -457,6 +457,7 @@ var cnames_active = {
   "dinesh": "dineshondev.github.io/dinesh", // noCF? (don´t add this in a new PR)
   "dinos": "0xflotus.github.io/dinos",
   "dio": "thysultan.github.io/dio.js",
+  "discord.lib": "absolutedevelop.gitbook.id",
   "discord": "discordjs.github.io/website",
   "discord4node": "mrsheldon.github.io/Discord4Node",
   "discordutil": "chroventer.github.io/discordutil",
@@ -2036,7 +2037,7 @@ var cnames_active = {
   "zonayed": "zonayedpca.github.io/js.zonayed.me",
   "zplugins": "zlanguage.github.io/plugin-docs",
   "zty": "zetaoyang.github.io",
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
   /*
   * please don't add your subdomain records down here!
   * insert them in alphabetical order to help reduce merge conflicts.
